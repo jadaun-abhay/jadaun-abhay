@@ -91,16 +91,30 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jadaun-abhay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jadaun-abhay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+<a href="https://github.com/jadaun-abhay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadaun-abhay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaun-abhay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaun-abhay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jadaun-abhay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jadaun-abhay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jadaun-abhay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-?" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadaun-abhay&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
