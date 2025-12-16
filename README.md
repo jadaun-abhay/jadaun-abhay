@@ -101,13 +101,13 @@ me.say_hi()
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jadaun-abhay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadaun-abhay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jadaun-abhay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-?" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jadaun-abhay&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -165,6 +165,52 @@ goals_2025:
 ### 🌟 Show some ❤️ by starring some repositories!
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🎮 Holopin Badges
+
+<div align="center">
+  
+[![An image of @jadaunabhay's Holopin badges](https://holopin.me/jadaunabhay)](https://holopin.io/@jadaunabhay)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jadaun-abhay&theme=react-dark&hide_border=true&area=true)](https://github.com/jadaun-abhay)
+
+</div>
+
+---
+
+## 🏆 GitHub Profile Summary
+
+<div align="center">
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadaun-abhay&theme=tokyonight)](https://github.com/jadaun-abhay)
+
+</div>
+
+<div align="center">
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadaun-abhay&theme=tokyonight)](https://github.com/jadaun-abhay)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jadaun-abhay&theme=tokyonight)](https://github.com/jadaun-abhay)
+
+</div>
+
+<div align="center">
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jadaun-abhay&theme=tokyonight)](https://github.com/jadaun-abhay)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadaun-abhay&theme=tokyonight)](https://github.com/jadaun-abhay)
+
+</div>
 
 ---
 
