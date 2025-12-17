@@ -99,7 +99,7 @@ me.say_hi()
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jadaun-abhay&theme=dark" alt="GitHub Streak" /></a>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
