@@ -103,7 +103,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jadaun-abhay&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jadaun-abhay&theme=nord" alt="GitHub Trophies" />
   </a>
 </div>
 
