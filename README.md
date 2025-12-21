@@ -124,7 +124,7 @@ learning:
   - React & Modern Frontend
   - System Design & Architecture
   
-goals_2025:
+goals:
   - Contribute to major open source projects
   - Build production-ready applications
   - Master cloud technologies (AWS/GCP)
